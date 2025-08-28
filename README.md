@@ -1,8 +1,18 @@
-# fidup - AP2 Fachinformatiker für Daten- und Prozessanalyse (IHK) - Lernzettel
+# ⚠️ ARCHIVED PROJECT
 
-[![GitHub issues](https://img.shields.io/github/issues/t128n/fidup)](https://github.com/t128n/fidup/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/t128n/fidup)](https://github.com/t128n/fidup/pulls)  [![GitHub contributors](https://img.shields.io/github/contributors/t128n/fidup)](https://github.com/t128n/fidup/graphs/contributors) [![GitHub stars](https://img.shields.io/github/stars/t128n/fidup)](https://github.com/t128n/fidup/stargazers)
+**This repository has been archived and is no longer maintained.**
 
-Dieses Repository dient der Vorbereitung auf die AP2 des Fachinformatikers für Daten- und Prozessanalyse (IHK) ("fidup"). Es enthält Lernzettel für die Prüfung im Winter 2024/2025.
+The successor to this project with improved content and features is available at: **[https://t128n.github.io/open-fidup/](https://t128n.github.io/open-fidup/)**
+
+Please visit the new site for the latest learning materials and updates.
+
+---
+
+# fidup - AP2 Fachinformatiker für Daten- und Prozessanalyse (IHK) - Lernzettel (ARCHIVED)
+
+[![GitHub issues](https://img.shields.io/github/issues/t128n/fidup)](https://github.com/t128n/fidup/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/t128n/fidup/pulls)  [![GitHub contributors](https://img.shields.io/github/contributors/t128n/fidup/graphs/contributors) [![GitHub stars](https://img.shields.io/github/stars/t128n/fidup/stargazers)](https://github.com/t128n/fidup/stargazers)
+
+**ARCHIVED:** Dieses Repository dient der Vorbereitung auf die AP2 des Fachinformatikers für Daten- und Prozessanalyse (IHK) ("fidup"). Es enthält Lernzettel für die Prüfung im Winter 2024/2025. **Dieses Repository ist archiviert - bitte verwenden Sie die neue Version unter https://t128n.github.io/open-fidup/**
 
 **Wichtiger Hinweis:** Die hier bereitgestellten Notizen wurden nach bestem Wissen und Gewissen erstellt und haben mir zu einer Abschlussnote von 1,4 verholfen. Es wird jedoch keine Verantwortung für die Aktualität und Vollständigkeit der Inhalte übernommen.
 
