@@ -2,7 +2,7 @@
 
 
 ## Elemente
-![[Pasted image 20240916120044.png]]
+![[00 attachments/Pasted image 20240916120044.png]]
 - **Entität**, Objekt aus realer Welt, über welches man Informationen speichern möchte
 ![[Pasted image 20240916120112.png]]
 - **Beziehung**, verbindet Entitäten
